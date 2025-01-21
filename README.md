@@ -75,12 +75,3 @@ Ikuti langkah-langkah berikut untuk memulai proyek Laravel Anda:
    ```
 
 Sekarang Anda dapat membuka aplikasi di browser dengan mengakses `http://localhost:8000`.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-```
-
-Instruksi ini sekarang sudah mencakup langkah-langkah untuk clone repositori, update composer, install npm, hingga menjalankan server Laravel dan NPM sesuai dengan yang kamu inginkan.
-
-Apakah ada yang perlu disesuaikan lagi?
